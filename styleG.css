@@ -56,6 +56,7 @@ body{
     align-items: center;
     justify-content: center;            
 }
+
 #ball{
     height: 5vh;
     position: absolute;
@@ -63,6 +64,7 @@ body{
     left: 30px;
       
 }
+
 #logo{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
@@ -71,6 +73,7 @@ body{
     top: 6px;
     left: 85px;
 }
+
 .Legenda{
         
     font-family: helvetica;
@@ -79,14 +82,14 @@ body{
     position: absolute;
     top: 690px;
 }
+
 main h2{
     font-size: 52px;
 }
+
 main p {
     font-size: 16px;
 }
-
-
 
 /* Div do botão */
 div.button{
